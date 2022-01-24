@@ -1,0 +1,2 @@
+hostname = txv04.com
+^https?:\/\/txv04\.com\/h5\/user\/findQrcode$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/TXVWCrack.js
