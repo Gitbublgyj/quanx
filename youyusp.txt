@@ -1,2 +1,0 @@
-hostname = api.youyu*
-^https?:\/\/api\.youyu.*\/api\/account\/loginBy(Phone|Password)$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/YYSPCrack.js
