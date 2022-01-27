@@ -1,0 +1,2 @@
+hostname = mapi.shuijiaobao.cn
+https://mapi.shuijiaobao.cn/home/user url script-request-header https://raw.githubusercontent.com/bluesmallpig/scripts/main/sjb.js
