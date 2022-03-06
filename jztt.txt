@@ -1,0 +1,2 @@
+hostname=api.st615.com
+https://api.st615.com/v2/user/task url script-request-header https://raw.githubusercontent.com/bluesmallpig/scripts/main/jztt.js
