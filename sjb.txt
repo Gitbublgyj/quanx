@@ -1,5 +1,5 @@
 [mitm]
-hostname = mapi.shuijiaobao.cn
+hostname = api.shuijiaobao.cn
 
 #QX重写
 https://mapi.shuijiaobao.cn/home/user url script-request-header http://script.frp.aiuyo.com:8680/scripts/sjb.js
