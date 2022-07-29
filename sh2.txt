@@ -1,4 +1,0 @@
-[rewrite_local]
-shua-shyys/look/ad/video? url script-request-header https://kireinasakura.coding.net/p/could/d/there/git/raw/master/vid.js
-[MITM]
-hostname = bp-api.shinet.cn
